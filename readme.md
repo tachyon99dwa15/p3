@@ -12,7 +12,7 @@
 + Dropdown menu to select Type of Calculations (Area, Perimeter)
 
 ## Packages
-+ barryvdh/laravel-debugbar*
++ barryvdh/laravel-debugbar
 
 ## Code style divergences
 No code style divergences
